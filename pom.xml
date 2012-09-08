@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.hazardousholdings</groupId>
-	<artifactId>themusicbot-package-heroku</artifactId>
+	<artifactId>themusicbot-heroku-template</artifactId>
 	<packaging>pom</packaging>
 	<version>1.0</version>
 

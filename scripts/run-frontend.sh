@@ -1,2 +1,2 @@
-cd ../frontend/
+cd frontend/
 java -jar themusicbot-frontend-*.jar
